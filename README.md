@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p0k8h.
-- 🧐 I’m curious about Making the Most excellent User Interface and Client Involvement for Mobile and Web at the side the finest progressing Patterns in UI/UX World      conjointly Create this best Front-End Involvement for Client.
+- 🧐 I’m curious about making the excellent User Interface and Client involvement for Mobile and Web applications with the best progressing Patterns in UI/UX World      conjointly the best Front-End appications for clients.
 - 🌱 I’m currently learning DevOps, DataBase Design.
 - 👯 I’m looking to collaborate on User Interface/Experience on FrontEnd Projects developed with ReactJS.
 - 💬 Ask me about JavaScript/TypeScript/ReactJS/NodeJS and GraphQL.
