@@ -2,5 +2,5 @@
 - 🧐 I’m curious about Making the Most excellent User Interface and Client Involvement for Mobile and Web at the side the finest progressing Patterns in UI/UX World      conjointly Create this best Front-End Involvement for Client.
 - 🌱 I’m currently learning DevOps, DataBase Design.
 - 👯 I’m looking to collaborate on User Interface/Experience on FrontEnd Projects developed with ReactJS.
-- 💬 Ask me about JavaScript/ReactJS/NodeJS and GraphQL.
+- 💬 Ask me about JavaScript/TypeScript/ReactJS/NodeJS and GraphQL.
 - 📫 How to reach me Email: [parwatkunwar08@gmail.com](mailto:admin@cloudhadoop.com)
