@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Parwat - FullStack JS/TS Dev.
 - 🧐 I’m curious about making the excellent UI/UX for Mobile, Web and Desktop applications.
 - 🌱 I’m currently learning DevOps, DataBase Design.
-- 👯 I’m looking to collaborate on UIs projects developed with ReactJS.
 - 💬 Ask me about JavaScript/TypeScript/ReactJS/NodeJS and GraphQL.
 - 📫 How to reach me Email: [parwatkunwar08@gmail.com](mailto:parwatkunwar08@gmail.com)
