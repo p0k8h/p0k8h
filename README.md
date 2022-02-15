@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Parwat.
-- 🧐 I’m curious about making the excellent User Interface and Client involvement for Mobile and Web applications with the best progressing Patterns in UI/UX World      conjointly the best Front-End appications for clients.
+- 👋 Hi, I’m Parwat - FullStack JS/TS Dev.
+- 🧐 I’m curious about making the excellent UI/UX for Mobile, Web and Desktop applications.
 - 🌱 I’m currently learning DevOps, DataBase Design.
-- 👯 I’m looking to collaborate on User Interface/Experience on FrontEnd Projects developed with ReactJS.
+- 👯 I’m looking to collaborate on UIs projects developed with ReactJS.
 - 💬 Ask me about JavaScript/TypeScript/ReactJS/NodeJS and GraphQL.
-- 📫 How to reach me Email: [parwatkunwar08@gmail.com](mailto:admin@cloudhadoop.com)
+- 📫 How to reach me Email: [parwatkunwar08@gmail.com](mailto:parwatkunwar08@gmail.com)
