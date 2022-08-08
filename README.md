@@ -2,4 +2,3 @@
 - 🧐 I’m curious about making the excellent UI/UX for Mobile, Web and Desktop applications.
 - 🌱 I’m currently learning Java, Swift, DevOps & DataBase Design.
 - 💬 Ask me about JavaScript/TypeScript/ReactJS/NodeJS and GraphQL.
-- 📫 Email: [parwatkunwar08@gmail.com](mailto:parwatkunwar08@gmail.com)
