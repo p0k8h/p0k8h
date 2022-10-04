@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Parwat - FullStack JS/TS Dev.
-- 🧐 I’m curious about making the excellent UI/UX for Mobile, Web and Desktop applications.
-- 🌱 I’m currently learning Java, Swift, DevOps & DataBase Design.
-- 💬 Ask me about JavaScript/TypeScript/ReactJS/NodeJS and GraphQL.
