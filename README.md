@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Parwat - FullStack JS/TS Dev.
+- 👋 Hi, I’m Parwat - a full stack web developer.
